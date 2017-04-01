@@ -1,9 +1,10 @@
 <scheme name="_@user_Default" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2017-03-26T13:10:55</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2016.3.5.0.0</property>
-    <property name="modified">2017-03-26T13:32:47</property>
+    <property name="modified">2017-03-26T20:43:09</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -13,6 +14,16 @@
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <attributes>
+    <option name="YAML_SCALAR_DSTRING">
+      <value>
+        <option name="FOREGROUND" value="c60015" />
+      </value>
+    </option>
+    <option name="YAML_SCALAR_STRING">
+      <value>
+        <option name="FOREGROUND" value="c60015" />
+      </value>
+    </option>
     <option name="org.rust.ASSOC_FUNCTION">
       <value />
     </option>
@@ -45,9 +56,7 @@
       </value>
     </option>
     <option name="org.rust.ENUM_VARIANT">
-      <value>
-        <option name="FOREGROUND" value="660e7a" />
-      </value>
+      <value />
     </option>
     <option name="org.rust.EOL_COMMENT">
       <value>
@@ -55,10 +64,7 @@
       </value>
     </option>
     <option name="org.rust.FIELD">
-      <value>
-        <option name="FOREGROUND" value="660e7a" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
+      <value />
     </option>
     <option name="org.rust.LIFETIME">
       <value>
