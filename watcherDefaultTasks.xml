@@ -19,10 +19,10 @@
       <option name="workingDir" value="" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="true">
+    <TaskOptions isEnabled="false">
       <option name="arguments" value="--skip-children --write-mode overwrite $FilePath$" />
       <option name="checkSyntaxErrors" value="true" />
-      <option name="description" value="" />
+      <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="rs" />
       <option name="immediateSync" value="false" />
@@ -33,7 +33,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="$USER_HOME$/.cargo/bin/rustfmt" />
-      <option name="scopeName" value="Project Files" />
+      <option name="scopeName" value="Changed Files" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="" />
       <envs />
